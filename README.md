@@ -1,2 +1,2 @@
 # Via Viridis
-An interactive fiction adventure game.
+A chance and choice-based adventure game.
