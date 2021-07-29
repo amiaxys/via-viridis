@@ -1,2 +1,2 @@
 # Via Viridis
-A chance and choice-based adventure game.
+A choice-based game in a world overgrown with plants.
